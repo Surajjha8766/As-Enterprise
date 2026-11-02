@@ -1,0 +1,6 @@
+{
+  "name": "ElectroChip Enterprise",
+  "description": "Premier enterprise e-commerce platform for electronic components, semiconductors, embedded systems, and industrial hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
